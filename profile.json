@@ -1,0 +1,31 @@
+{
+    "env": {
+        "VM_COMMON_DIR": "%ProgramData%\\FEVM",
+        "TOOL_LIST_DIR": "%ProgramData%\\Microsoft\\Windows\\Start Menu\\Programs\\Tools",
+        "TOOL_LIST_SHORTCUT": "%UserProfile%\\Desktop\\Tools.lnk",
+        "RAW_TOOLS_DIR": "%SystemDrive%\\Tools",
+        "TEMPLATE_DIR": "commandovm.win10.installer.fireeye"
+    },
+    "packages": [
+        {"name": "git"},
+        {"name": "wireshark.fireeye"},
+        {"name": "python2"},
+        {"name": "python3"},
+        {"name": "sysinternals.fireeye"},
+        {"name": "nmap.fireeye"},
+        {"name": "SublimeText3.fireeye"},
+        {"name": "telnet.fireeye"},
+        {"name": "putty.fireeye"},
+        {"name": "mobaxterm.fireeye"},
+        {"name": "7zip"},
+        {"name": "winscp.fireeye"},
+        {"name": "zap.fireeye"},
+        {"name": "hashcat.fireeye"},
+        {"name": "hxd.fireeye"},
+        {
+            "name": "metasploit.flare",
+            "x64Only": true
+        },
+        {"name": "burp.free.fireeye"}
+    ]
+}
