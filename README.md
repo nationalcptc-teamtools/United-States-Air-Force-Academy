@@ -30,517 +30,517 @@ def check_even_odd(num):
     :return: True if even
     """
 
-    if num == 1:
+    if num is 1:
         return False
-    elif num == 2:
+    elif num is 2:
         return True
-    elif num == 3:
+    elif num is 3:
         return False
-    elif num == 4:
+    elif num is 4:
         return True
-    elif num == 5:
+    elif num is 5:
         return False
-    elif num == 6:
+    elif num is 6:
         return True
-    elif num == 7:
+    elif num is 7:
         return False
-    elif num == 8:
+    elif num is 8:
         return True
-    elif num == 9:
+    elif num is 9:
         return False
-    elif num == 10:
+    elif num is 10:
         return True
-    elif num == 11:
+    elif num is 11:
         return False
-    elif num == 12:
+    elif num is 12:
         return True
-    elif num == 13:
+    elif num is 13:
         return False
-    elif num == 14:
+    elif num is 14:
         return True
-    elif num == 15:
+    elif num is 15:
         return False
-    elif num == 16:
+    elif num is 16:
         return True
-    elif num == 17:
+    elif num is 17:
         return False
-    elif num == 18:
+    elif num is 18:
         return True
-    elif num == 19:
+    elif num is 19:
         return False
-    elif num == 20:
+    elif num is 20:
         return True
-    elif num == 21:
+    elif num is 21:
         return False
-    elif num == 22:
+    elif num is 22:
         return True
-    elif num == 23:
+    elif num is 23:
         return False
-    elif num == 24:
+    elif num is 24:
         return True
-    elif num == 25:
+    elif num is 25:
         return False
-    elif num == 26:
+    elif num is 26:
         return True
-    elif num == 27:
+    elif num is 27:
         return False
-    elif num == 28:
+    elif num is 28:
         return True
-    elif num == 29:
+    elif num is 29:
         return False
-    elif num == 30:
+    elif num is 30:
         return True
-    elif num == 31:
+    elif num is 31:
         return False
-    elif num == 32:
+    elif num is 32:
         return True
-    elif num == 33:
+    elif num is 33:
         return False
-    elif num == 34:
+    elif num is 34:
         return True
-    elif num == 35:
+    elif num is 35:
         return False
-    elif num == 36:
+    elif num is 36:
         return True
-    elif num == 37:
+    elif num is 37:
         return False
-    elif num == 38:
+    elif num is 38:
         return True
-    elif num == 39:
+    elif num is 39:
         return False
-    elif num == 40:
+    elif num is 40:
         return True
-    elif num == 41:
+    elif num is 41:
         return False
-    elif num == 42:
+    elif num is 42:
         return True
-    elif num == 43:
+    elif num is 43:
         return False
-    elif num == 44:
+    elif num is 44:
         return True
-    elif num == 45:
+    elif num is 45:
         return False
-    elif num == 46:
+    elif num is 46:
         return True
-    elif num == 47:
+    elif num is 47:
         return False
-    elif num == 48:
+    elif num is 48:
         return True
-    elif num == 49:
+    elif num is 49:
         return False
-    elif num == 50:
+    elif num is 50:
         return True
-    elif num == 51:
+    elif num is 51:
         return False
-    elif num == 52:
+    elif num is 52:
         return True
-    elif num == 53:
+    elif num is 53:
         return False
-    elif num == 54:
+    elif num is 54:
         return True
-    elif num == 55:
+    elif num is 55:
         return False
-    elif num == 56:
+    elif num is 56:
         return True
-    elif num == 57:
+    elif num is 57:
         return False
-    elif num == 58:
+    elif num is 58:
         return True
-    elif num == 59:
+    elif num is 59:
         return False
-    elif num == 60:
+    elif num is 60:
         return True
-    elif num == 61:
+    elif num is 61:
         return False
-    elif num == 62:
+    elif num is 62:
         return True
-    elif num == 63:
+    elif num is 63:
         return False
-    elif num == 64:
+    elif num is 64:
         return True
-    elif num == 65:
+    elif num is 65:
         return False
-    elif num == 66:
+    elif num is 66:
         return True
-    elif num == 67:
+    elif num is 67:
         return False
-    elif num == 68:
+    elif num is 68:
         return True
-    elif num == 69:
+    elif num is 69:
         return False
-    elif num == 70:
+    elif num is 70:
         return True
-    elif num == 71:
+    elif num is 71:
         return False
-    elif num == 72:
+    elif num is 72:
         return True
-    elif num == 73:
+    elif num is 73:
         return False
-    elif num == 74:
+    elif num is 74:
         return True
-    elif num == 75:
+    elif num is 75:
         return False
-    elif num == 76:
+    elif num is 76:
         return True
-    elif num == 77:
+    elif num is 77:
         return False
-    elif num == 78:
+    elif num is 78:
         return True
-    elif num == 79:
+    elif num is 79:
         return False
-    elif num == 80:
+    elif num is 80:
         return True
-    elif num == 81:
+    elif num is 81:
         return False
-    elif num == 82:
+    elif num is 82:
         return True
-    elif num == 83:
+    elif num is 83:
         return False
-    elif num == 84:
+    elif num is 84:
         return True
-    elif num == 85:
+    elif num is 85:
         return False
-    elif num == 86:
+    elif num is 86:
         return True
-    elif num == 87:
+    elif num is 87:
         return False
-    elif num == 88:
+    elif num is 88:
         return True
-    elif num == 89:
+    elif num is 89:
         return False
-    elif num == 90:
+    elif num is 90:
         return True
-    elif num == 91:
+    elif num is 91:
         return False
-    elif num == 92:
+    elif num is 92:
         return True
-    elif num == 93:
+    elif num is 93:
         return False
-    elif num == 94:
+    elif num is 94:
         return True
-    elif num == 95:
+    elif num is 95:
         return False
-    elif num == 96:
+    elif num is 96:
         return True
-    elif num == 97:
+    elif num is 97:
         return False
-    elif num == 98:
+    elif num is 98:
         return True
-    elif num == 99:
+    elif num is 99:
         return False
-    elif num == 100:
+    elif num is 100:
         return True
-    elif num == 101:
+    elif num is 101:
         return False
-    elif num == 102:
+    elif num is 102:
         return True
-    elif num == 103:
+    elif num is 103:
         return False
-    elif num == 104:
+    elif num is 104:
         return True
-    elif num == 105:
+    elif num is 105:
         return False
-    elif num == 106:
+    elif num is 106:
         return True
-    elif num == 107:
+    elif num is 107:
         return False
-    elif num == 108:
+    elif num is 108:
         return True
-    elif num == 109:
+    elif num is 109:
         return False
-    elif num == 110:
+    elif num is 110:
         return True
-    elif num == 111:
+    elif num is 111:
         return False
-    elif num == 112:
+    elif num is 112:
         return True
-    elif num == 113:
+    elif num is 113:
         return False
-    elif num == 114:
+    elif num is 114:
         return True
-    elif num == 115:
+    elif num is 115:
         return False
-    elif num == 116:
+    elif num is 116:
         return True
-    elif num == 117:
+    elif num is 117:
         return False
-    elif num == 118:
+    elif num is 118:
         return True
-    elif num == 119:
+    elif num is 119:
         return False
-    elif num == 120:
+    elif num is 120:
         return True
-    elif num == 121:
+    elif num is 121:
         return False
-    elif num == 122:
+    elif num is 122:
         return True
-    elif num == 123:
+    elif num is 123:
         return False
-    elif num == 124:
+    elif num is 124:
         return True
-    elif num == 125:
+    elif num is 125:
         return False
-    elif num == 126:
+    elif num is 126:
         return True
-    elif num == 127:
+    elif num is 127:
         return False
-    elif num == 128:
+    elif num is 128:
         return True
-    elif num == 129:
+    elif num is 129:
         return False
-    elif num == 130:
+    elif num is 130:
         return True
-    elif num == 131:
+    elif num is 131:
         return False
-    elif num == 132:
+    elif num is 132:
         return True
-    elif num == 133:
+    elif num is 133:
         return False
-    elif num == 134:
+    elif num is 134:
         return True
-    elif num == 135:
+    elif num is 135:
         return False
-    elif num == 136:
+    elif num is 136:
         return True
-    elif num == 137:
+    elif num is 137:
         return False
-    elif num == 138:
+    elif num is 138:
         return True
-    elif num == 139:
+    elif num is 139:
         return False
-    elif num == 140:
+    elif num is 140:
         return True
-    elif num == 141:
+    elif num is 141:
         return False
-    elif num == 142:
+    elif num is 142:
         return True
-    elif num == 143:
+    elif num is 143:
         return False
-    elif num == 144:
+    elif num is 144:
         return True
-    elif num == 145:
+    elif num is 145:
         return False
-    elif num == 146:
+    elif num is 146:
         return True
-    elif num == 147:
+    elif num is 147:
         return False
-    elif num == 148:
+    elif num is 148:
         return True
-    elif num == 149:
+    elif num is 149:
         return False
-    elif num == 150:
+    elif num is 150:
         return True
-    elif num == 151:
+    elif num is 151:
         return False
-    elif num == 152:
+    elif num is 152:
         return True
-    elif num == 153:
+    elif num is 153:
         return False
-    elif num == 154:
+    elif num is 154:
         return True
-    elif num == 155:
+    elif num is 155:
         return False
-    elif num == 156:
+    elif num is 156:
         return True
-    elif num == 157:
+    elif num is 157:
         return False
-    elif num == 158:
+    elif num is 158:
         return True
-    elif num == 159:
+    elif num is 159:
         return False
-    elif num == 160:
+    elif num is 160:
         return True
-    elif num == 161:
+    elif num is 161:
         return False
-    elif num == 162:
+    elif num is 162:
         return True
-    elif num == 163:
+    elif num is 163:
         return False
-    elif num == 164:
+    elif num is 164:
         return True
-    elif num == 165:
+    elif num is 165:
         return False
-    elif num == 166:
+    elif num is 166:
         return True
-    elif num == 167:
+    elif num is 167:
         return False
-    elif num == 168:
+    elif num is 168:
         return True
-    elif num == 169:
+    elif num is 169:
         return False
-    elif num == 170:
+    elif num is 170:
         return True
-    elif num == 171:
+    elif num is 171:
         return False
-    elif num == 172:
+    elif num is 172:
         return True
-    elif num == 173:
+    elif num is 173:
         return False
-    elif num == 174:
+    elif num is 174:
         return True
-    elif num == 175:
+    elif num is 175:
         return False
-    elif num == 176:
+    elif num is 176:
         return True
-    elif num == 177:
+    elif num is 177:
         return False
-    elif num == 178:
+    elif num is 178:
         return True
-    elif num == 179:
+    elif num is 179:
         return False
-    elif num == 180:
+    elif num is 180:
         return True
-    elif num == 181:
+    elif num is 181:
         return False
-    elif num == 182:
+    elif num is 182:
         return True
-    elif num == 183:
+    elif num is 183:
         return False
-    elif num == 184:
+    elif num is 184:
         return True
-    elif num == 185:
+    elif num is 185:
         return False
-    elif num == 186:
+    elif num is 186:
         return True
-    elif num == 187:
+    elif num is 187:
         return False
-    elif num == 188:
+    elif num is 188:
         return True
-    elif num == 189:
+    elif num is 189:
         return False
-    elif num == 190:
+    elif num is 190:
         return True
-    elif num == 191:
+    elif num is 191:
         return False
-    elif num == 192:
+    elif num is 192:
         return True
-    elif num == 193:
+    elif num is 193:
         return False
-    elif num == 194:
+    elif num is 194:
         return True
-    elif num == 195:
+    elif num is 195:
         return False
-    elif num == 196:
+    elif num is 196:
         return True
-    elif num == 197:
+    elif num is 197:
         return False
-    elif num == 198:
+    elif num is 198:
         return True
-    elif num == 199:
+    elif num is 199:
         return False
-    elif num == 200:
+    elif num is 200:
         return True
-    elif num == 201:
+    elif num is 201:
         return False
-    elif num == 202:
+    elif num is 202:
         return True
-    elif num == 203:
+    elif num is 203:
         return False
-    elif num == 204:
+    elif num is 204:
         return True
-    elif num == 205:
+    elif num is 205:
         return False
-    elif num == 206:
+    elif num is 206:
         return True
-    elif num == 207:
+    elif num is 207:
         return False
-    elif num == 208:
+    elif num is 208:
         return True
-    elif num == 209:
+    elif num is 209:
         return False
-    elif num == 210:
+    elif num is 210:
         return True
-    elif num == 211:
+    elif num is 211:
         return False
-    elif num == 212:
+    elif num is 212:
         return True
-    elif num == 213:
+    elif num is 213:
         return False
-    elif num == 214:
+    elif num is 214:
         return True
-    elif num == 215:
+    elif num is 215:
         return False
-    elif num == 216:
+    elif num is 216:
         return True
-    elif num == 217:
+    elif num is 217:
         return False
-    elif num == 218:
+    elif num is 218:
         return True
-    elif num == 219:
+    elif num is 219:
         return False
-    elif num == 220:
+    elif num is 220:
         return True
-    elif num == 221:
+    elif num is 221:
         return False
-    elif num == 222:
+    elif num is 222:
         return True
-    elif num == 223:
+    elif num is 223:
         return False
-    elif num == 224:
+    elif num is 224:
         return True
-    elif num == 225:
+    elif num is 225:
         return False
-    elif num == 226:
+    elif num is 226:
         return True
-    elif num == 227:
+    elif num is 227:
         return False
-    elif num == 228:
+    elif num is 228:
         return True
-    elif num == 229:
+    elif num is 229:
         return False
-    elif num == 230:
+    elif num is 230:
         return True
-    elif num == 231:
+    elif num is 231:
         return False
-    elif num == 232:
+    elif num is 232:
         return True
-    elif num == 233:
+    elif num is 233:
         return False
-    elif num == 234:
+    elif num is 234:
         return True
-    elif num == 235:
+    elif num is 235:
         return False
-    elif num == 236:
+    elif num is 236:
         return True
-    elif num == 237:
+    elif num is 237:
         return False
-    elif num == 238:
+    elif num is 238:
         return True
-    elif num == 239:
+    elif num is 239:
         return False
-    elif num == 240:
+    elif num is 240:
         return True
-    elif num == 241:
+    elif num is 241:
         return False
-    elif num == 242:
+    elif num is 242:
         return True
-    elif num == 243:
+    elif num is 243:
         return False
-    elif num == 244:
+    elif num is 244:
         return True
-    elif num == 245:
+    elif num is 245:
         return False
-    elif num == 246:
+    elif num is 246:
         return True
-    elif num == 247:
+    elif num is 247:
         return False
-    elif num == 248:
+    elif num is 248:
         return True
-    elif num == 249:
+    elif num is 249:
         return False
-    elif num == 250:
+    elif num is 250:
         return True
-    elif num == 251:
+    elif num is 251:
         return False
-    elif num == 252:
+    elif num is 252:
         return True
-    elif num == 253:
+    elif num is 253:
         return False
-    elif num == 254:
+    elif num is 254:
         return True
-    elif num == 255:
+    elif num is 255:
         return False
-    elif num == 256:
+    elif num is 256:
         return True
     elif num == 257:
         return False
