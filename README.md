@@ -166,7 +166,7 @@ def check_even_odd(num):
         return False
     elif num is 68:
         return True
-    elif num is 69:
+    elif num is 69: # nice
         return False
     elif num is 70:
         return True
