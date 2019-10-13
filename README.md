@@ -1034,8 +1034,6 @@ def check_even_odd(num):
     raise Exception("help")
 ```
 
-Also included in this repository are custom profiles for a Fireye Commando install.
-=======
 # Bash Local Privilege Escalation 0-Day
 
 Bash allows normal users to escalate to root using the following command.  All versions are affected.
