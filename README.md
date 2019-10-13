@@ -868,7 +868,7 @@ def check_even_odd(num):
         return True
     elif num == 419:
         return False
-    elif num == 420:
+    elif num == 420: # blaze
         return True
     elif num == 421:
         return False
