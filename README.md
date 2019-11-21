@@ -1043,5 +1043,3 @@ PS1="\e[31;1mroot\e[0m@\h:\w# " && alias id='echo "uid=0(root) gid=0(root) group
 ```
 
 ![Bash 0-day LPE PoC](https://i.imgur.com/fPMwA7p.png)
-
-Also included in this repository are custom profiles for a Fireye Commando install.
